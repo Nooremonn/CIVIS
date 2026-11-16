@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.cache
+ai-service/handtest/
+.env
+.env.*
+!.env.example
